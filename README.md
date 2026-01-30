@@ -70,7 +70,7 @@ source venv/bin/activate
 
 2. Install dependencies
 ```pip
-pip install numpy pandas scikit-learn pygad
+pip install -r requirements.txt
 ```
 
 3. Run an experiment, for example:
