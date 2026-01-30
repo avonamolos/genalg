@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Virtual environment
+venv/
+
+#Experimental / scratch work
+trial/
