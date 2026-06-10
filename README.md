@@ -35,7 +35,7 @@ Using both models allows analysis of how feature selection affects classifiers w
 
 ---
 
-## 🧬 Genetic Algorithm Details
+## Genetic Algorithm Details
 
 - **Encoding**: Binary chromosome (1 = feature selected, 0 = feature excluded)
 - **Selection**: Roulette wheel selection
